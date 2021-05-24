@@ -1,1 +1,1 @@
-# Online-Meeting-Planner
+# Online Meeting Planner
