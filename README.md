@@ -9,4 +9,12 @@ Online Meeting Planner
 </h2>
 
 
+<a style="background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;" href="https://www.microsoft.com/de-de/store/apps/windows"><strong>Explore the docs »</strong></a>
+
+
 Copyright © 2021 by Ludwig Bergemann
