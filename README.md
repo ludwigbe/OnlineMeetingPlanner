@@ -9,6 +9,7 @@ Online Meeting Planner
 </h2>
 
 <p align="center">
+<img src="https://user-images.githubusercontent.com/54584689/119859257-84503700-bf15-11eb-8539-97e3e7fc864d.png">
 <a href="https://www.microsoft.com/de-de/store/apps/windows"><strong>» DOWNLOAD</strong></a>
 </p>
 
