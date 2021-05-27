@@ -9,4 +9,4 @@ Online Meeting Planner
 </h2>
 
 
-
+Copyright © 2021 by Ludwig Bergemann
