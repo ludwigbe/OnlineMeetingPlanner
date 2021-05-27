@@ -9,7 +9,7 @@ Online Meeting Planner
 </h2>
 
 <p align="center">
-<a href="https://www.microsoft.com/de-de/store/apps/windows"><strong>» DOWNLOAD</strong></a>
+<a href="https://www.microsoft.com/de-de/store/apps/windows"><strong>>DOWNLOAD<</strong></a>
 </p>
 
 Copyright © 2021 by Ludwig Bergemann
