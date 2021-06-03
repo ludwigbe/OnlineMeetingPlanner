@@ -13,6 +13,12 @@ Online Meeting Planner
 </p>
 
 
+<p align="center">
+<a href="//www.microsoft.com/store/apps/9PHVBSLRF6H3?cid=storebadge&ocid=badge"><strong><img src='https://user-images.githubusercontent.com/54584689/120659512-bb2ecb80-c486-11eb-9780-bd2d29cd2217.PNG' alt='English badge' style='width: 57px; height: 21px;'/></strong></a>
+</p>
+
+
+
 The Online Meeting Planner was developed for saving your time and energy!
 A digital schedule to avoid the stressfull and annoying search for links and passwords of your running Online Meetings (via Zoom, Webex, etc.).
 
@@ -29,4 +35,6 @@ Features:
 
 Copyright © 2021 by Ludwig Bergemann
 
-<a href='//www.microsoft.com/store/apps/9PHVBSLRF6H3?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 57px; height: 21px;'/></a>
+
+
+
