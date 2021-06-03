@@ -28,3 +28,5 @@ Features:
 - in englisch and german
 
 Copyright © 2021 by Ludwig Bergemann
+
+<a href='//www.microsoft.com/store/apps/9PHVBSLRF6H3?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
