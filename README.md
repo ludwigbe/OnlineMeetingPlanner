@@ -31,7 +31,6 @@ Features:
 - modern-designed and intuitive
 - in englisch and german
 
-Privacy Policy: https://github.com/ludwigbe/OnlineMeetingPlanner/blob/main/Privacy%20Policy
 
 Copyright © 2021 by Ludwig Bergemann
 
