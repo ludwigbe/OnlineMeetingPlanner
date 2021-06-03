@@ -1,3 +1,4 @@
+![microsoft120]()
 
 
 <p align="center">
@@ -14,7 +15,7 @@ Online Meeting Planner
 
 
 <p align="center">
-<a href="//www.microsoft.com/store/apps/9PHVBSLRF6H3?cid=storebadge&ocid=badge"><strong><img src='https://user-images.githubusercontent.com/54584689/120659940-22e51680-c487-11eb-8557-345f827c65bb.png' alt='English badge' style='width: 57px; height: 21px;'/></strong></a>
+<a href="//www.microsoft.com/store/apps/9PHVBSLRF6H3?cid=storebadge&ocid=badge"><strong><img src='https://user-images.githubusercontent.com/54584689/120660162-53c54b80-c487-11eb-8af8-48c5409a62d1.PNG' alt='English badge' style='width: 57px; height: 21px;'/></strong></a>
 </p>
 
 
